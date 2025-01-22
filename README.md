@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/262/350/392/blue-water-light-technology-wallpaper-preview.jpg)
+[![MasterHead](https://www.yapikredi.com.tr/medium/image/bulut-bilisim-trendleri_65851/view.jpg)
 <h1 align="center">Hi 👋, I'm Kaan </h1>
 <h3 align="center">👨‍💻 I’m Kaan, an aspiring DevOps Engineer with a strong passion for automation, cloud technologies, and system optimization. Currently, I’m enhancing my skills in: Linux System Administration AWS and Cloud Platforms CI/CD Pipelines Infrastructure as Code... My goal is to design efficient, scalable, and secure infrastructure solutions that empower development teams to deliver high-quality software faster.  I’m also exploring containerization (Docker, Kubernetes) tools.</h3>
 <br>
