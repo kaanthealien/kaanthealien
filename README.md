@@ -1,11 +1,11 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/262/350/392/blue-water-light-technology-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Kaan </h1>
-<h3 align="center">👨‍💻 I’m Kaan, an aspiring DevOps Engineer with a strong passion for automation, cloud technologies, and system optimization. 🚀 Currently, I’m enhancing my skills in: Linux System Administration AWS and Cloud Platforms CI/CD Pipelines Infrastructure as Code... 💡 My goal is to design efficient, scalable, and secure infrastructure solutions that empower development teams to deliver high-quality software faster. 📚 I’m also exploring containerization (Docker, Kubernetes) tools.</h3>
-
+<h3 align="center">👨‍💻 I’m Kaan, an aspiring DevOps Engineer with a strong passion for automation, cloud technologies, and system optimization. Currently, I’m enhancing my skills in: Linux System Administration AWS and Cloud Platforms CI/CD Pipelines Infrastructure as Code... My goal is to design efficient, scalable, and secure infrastructure solutions that empower development teams to deliver high-quality software faster.  I’m also exploring containerization (Docker, Kubernetes) tools.</h3>
+<br>
  🔭 I’m currently working on
-- 🔧 DevOps Skills Development: Learning tools and technologies like Jenkins, AWS, and Ansible to create automated and efficient workflows. ☁️ Cloud Computing: Deep dive into AWS services such as EC2, S3, and CloudFormation to design scalable and secure infrastructure. ⚙️ Linux System Administration: Developing my expertise in server administration, shell scripting and networking fundamentals. 📦 Containerization: Exploring Docker and Kubernetes to manage containerized applications efficiently. 💻 Open Source Contributions: Actively contributing to open source projects to apply and expand my knowledge in real-world scenarios.
+DevOps Skills Development: Learning tools and technologies like Jenkins, AWS, and Ansible to create automated and efficient workflows. Cloud Computing: Deep dive into AWS services such as EC2, S3, and CloudFormation to design scalable and secure infrastructure.  Linux System Administration: Developing my expertise in server administration, shell scripting and networking fundamentals. Containerization: Exploring Docker and Kubernetes to manage containerized applications efficiently. Open Source Contributions: Actively contributing to open source projects to apply and expand my knowledge in real-world scenarios.<br>
 
-   🌱 I’m currently learning
+   <br>🌱 I’m currently learning
 -    📚 Cloud Technologies: Gaining hands-on experience with AWS, including services like EC2, S3, RDS, and IAM.
 -   ⚙️ Infrastructure as Code (IaC): Learning tools like Ansible to automate infrastructure provisioning and configuration.
 -   🚀 CI/CD Pipelines: Exploring tools like Jenkins,CI/CD, and GitHub Actions for seamless deployment workflows.
