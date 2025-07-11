@@ -1,16 +1,14 @@
 ![MasterHead](https://www.yapikredi.com.tr/medium/image/bulut-bilisim-trendleri_65851/view.jpg)
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">👨‍💻 I’m Kaan, an aspiring DevOps Engineer with a strong passion for automation, cloud technologies, and system optimization. Currently, I’m enhancing my skills in: Linux System Administration AWS and Cloud Platforms CI/CD Pipelines Infrastructure as Code... My goal is to design efficient, scalable, and secure infrastructure solutions that empower development teams to deliver high-quality software faster.  I’m also exploring containerization (Docker, Kubernetes) tools.</h3>
-<br>
- 🔭 I’m currently working on
-DevOps Skills Development: Learning tools and technologies like Jenkins, AWS, and Ansible to create automated and efficient workflows. Cloud Computing: Deep dive into AWS services such as EC2, S3, and CloudFormation to design scalable and secure infrastructure.  Linux System Administration: Developing my expertise in server administration, shell scripting and networking fundamentals. Containerization: Exploring Docker and Kubernetes to manage containerized applications efficiently. Open Source Contributions: Actively contributing to open source projects to apply and expand my knowledge in real-world scenarios.<br>
+<h3 align="center">👨‍💻 I’m Kaan, a DevOps enthusiast focused on cloud technologies, automation, and infrastructure optimization. I’m actively working on developing scalable, secure, and efficient systems that empower development teams to deliver high-quality software faster. My current journey centers around cloud platforms (like AWS & Huawei Cloud), CI/CD pipelines, Infrastructure as Code practices, and containerization tools such as Docker and Kubernetes.</h3>
 
-   <br>🌱 I’m currently learning
--    📚 Cloud Technologies: Gaining hands-on experience with AWS, including services like EC2, S3, RDS, and IAM.
--   ⚙️ Infrastructure as Code (IaC): Learning tools like Ansible to automate infrastructure provisioning and configuration.
+   <br>🔭 I’m currently working on:
+-    📚 DevOps Skills Development: Strengthening my expertise in automation and infrastructure workflows using tools like Jenkins, AWS, Huawei Cloud, Minikube etc ...
+-   ⚙️ Cloud Computing: Deep diving into AWS and Huawei Cloud services—such as EC2, S3, CloudFormation, and Huawei’s infrastructure tools—to architect scalable and secure cloud environments.
 -   🚀 CI/CD Pipelines: Exploring tools like Jenkins,CI/CD, and GitHub Actions for seamless deployment workflows.
 -   🐳 Containerization and Orchestration: Mastering Docker for containerization and Kubernetes for managing containerized workloads.
--   📂 Linux Administration: Enhancing my skills in server management, shell scripting, and system optimization.
+-   📂 Infrastructure as Code (IaC): Applying IaC practices to automate infrastructure provisioning and increase deployment consistency.
+-   🌱 Open Source Contributions: Actively contributing to open source projects to test my skills in real-world scenarios and grow through community collaboration.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
