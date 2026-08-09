@@ -1,14 +1,14 @@
 ![MasterHead](https://www.yapikredi.com.tr/medium/image/bulut-bilisim-trendleri_65851/view.jpg)
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">👨‍💻 I’m Kaan, a DevOps enthusiast focused on cloud technologies, automation, and infrastructure optimization. I’m actively working on developing scalable, secure, and efficient systems that empower development teams to deliver high-quality software faster. My current journey centers around cloud platforms (like AWS & Huawei Cloud), CI/CD pipelines, Infrastructure as Code practices, and containerization tools such as Docker and Kubernetes.</h3>
+<h3 align="center">👨‍💻 I’m Kaan, a Cloud Platform Engineer focused on cloud architecture, DevOps practices, and infrastructure automation. I’m actively building scalable, secure, and resilient systems that empower development teams to deliver high-quality software efficiently. My journey spans cloud platforms (AWS), CI/CD pipelines, Infrastructure as Code, and container orchestration.</h3>
 
    <br>🔭 I’m currently working on:
--    📚 DevOps Skills Development: Strengthening my expertise in automation and infrastructure workflows using tools like Jenkins, AWS, Huawei Cloud, Minikube etc ...
--   ⚙️ Cloud Computing: Deep diving into AWS and Huawei Cloud services—such as EC2, S3, CloudFormation, and Huawei’s infrastructure tools—to architect scalable and secure cloud environments.
--   🚀 CI/CD Pipelines: Exploring tools like Jenkins,CI/CD, and GitHub Actions for seamless deployment workflows.
--   🐳 Containerization and Orchestration: Mastering Docker for containerization and Kubernetes for managing containerized workloads.
--   📂 Infrastructure as Code (IaC): Applying IaC practices to automate infrastructure provisioning and increase deployment consistency.
--   🌱 Open Source Contributions: Actively contributing to open source projects to test my skills in real-world scenarios and grow through community collaboration.
+-    📚 Cloud Platform Engineering: Designing and optimizing cloud infrastructure workflows, automation, and platform reliability.
+-   ⚙️ Cloud Architecture: Deep diving into cloud services (AWS) to architect scalable, resilient, and secure environments.
+-   🚀 CI/CD & Automation: Building robust, automated deployment pipelines using GitHub Actions and Jenkins.
+-   🐳 Containerization & Orchestration: Managing containerized workloads with Docker and Kubernetes for scalable microservices deployments.
+-   📂 Infrastructure as Code (IaC): Automating infrastructure provisioning using tools like Terraform and CloudFormation to ensure deployment consistency.
+-   🛠️ Platform & Local Workflows: Integrating local AI/RAG solutions and refining CLI/Linux-based development toolchains for internal efficiency.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
